@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10ff54f4-dd44-4cbb-8a36-377c23d598f2" name="Default Changelist" comment="" />
+    <list default="true" id="10ff54f4-dd44-4cbb-8a36-377c23d598f2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kUElLYxDR4fWuTlnCoWCJ62f4v" />
   <component name="ProjectViewState">
@@ -16,7 +21,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/kyleecodes-blog" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -28,7 +33,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605746919440</updated>
-      <workItem from="1605746920887" duration="309000" />
+      <workItem from="1605746920887" duration="2575000" />
+      <workItem from="1606006133555" duration="43000" />
     </task>
     <servers />
   </component>
